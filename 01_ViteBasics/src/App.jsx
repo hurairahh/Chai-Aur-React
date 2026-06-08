@@ -3,7 +3,7 @@
 // Why react is called single page application bcz in index.html we have only one div with id root
 
 function App() {
-  const username = "Waqar Hassan";
+  const username = "abu hurairah";
   return (
     <>
       {/* fragments = <></> used instead of div */}
